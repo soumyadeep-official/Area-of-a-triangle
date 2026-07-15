@@ -1,5 +1,3 @@
-<img width="802" height="680" alt="image" src="https://github.com/user-attachments/assets/7cff4e8d-bcbc-4a16-8afd-7f59ca6d1166" /># Area-of-a-triangle
-A simple C program that calculates the area of a triangle using a user-provided base and height. This beginner-friendly project demonstrates user input, variables, arithmetic operations, and formatted output while implementing the formula **Area = (b*h)/2**. Perfect for students learning the basics of C programming and mathematical computations.
 # Area of a Triangle in C
 
 A simple C program that calculates the **area of a triangle** using the base and height provided by the user. This beginner-friendly project helps you understand user input, arithmetic operations, and basic program structure in C.
